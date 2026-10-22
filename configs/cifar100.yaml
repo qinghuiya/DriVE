@@ -1,0 +1,7 @@
+# Override any other setting through train.py or --set KEY=VALUE.
+dataset:
+  name: cifar100
+model:
+  name: resnet18
+algorithm:
+  name: fedavg

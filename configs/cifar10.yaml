@@ -1,0 +1,7 @@
+# Demonstration defaults, not a tuned benchmark recipe.
+dataset:
+  name: cifar10
+model:
+  name: resnet18
+algorithm:
+  name: fedavg

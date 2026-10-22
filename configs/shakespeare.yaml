@@ -1,0 +1,7 @@
+dataset:
+  name: shakespeare
+  num_clients: null
+model:
+  name: char_lstm
+text:
+  sequence_length: 80
